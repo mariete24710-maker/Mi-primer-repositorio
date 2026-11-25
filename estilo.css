@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #0257e0;
+}
+
+footer {
+  margin-top: 40px;
+  color: #666666;
+  font-size: 0.9em;
+}
+contacto{
+  margin-top: 24px;
+  padding: 12px 16px;
+  background-color: #ffffff;
+  border-left: 4px solid #0257e0;
+}
